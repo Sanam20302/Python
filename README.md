@@ -1,6 +1,6 @@
 # Python
 
-- Anagram  : Checking whether one text is anagram of another. 
+- Anagram check : Checking whether one text is anagram of another. 
 
   (An anagram is a word or phrase formed by rearranging the letters of a different word or phrase)
   
@@ -10,4 +10,4 @@
 
 - List  : Simple operations on python list.
 
-- password_check  : To check whether a user input is valid or not, according to some criterias.
+- Password check  : To check whether a user input is valid or not, according to some criterias.
