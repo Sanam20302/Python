@@ -11,3 +11,4 @@
 - List  : Simple operations on python list.
 
 - Password check  : To check whether a user input is valid or not, according to some criterias.
+- Shopping cart : Shopping cart program using python OOP.
